@@ -35,16 +35,6 @@
 
 <br />
 
-<h3 align="center">・ Studying ・</h3>
-<div align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Recoil-3578E5?style=flat-square&logo=recoil&logoColor=ffffff"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=ffffff"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff"/></a>
-</div>
-
-<br />
-
 <h3 align="center">・ Tools ・</h3>
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=ffffff"/></a>
