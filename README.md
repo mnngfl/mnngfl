@@ -1,4 +1,4 @@
-<h3 align="center">・ Tech Stack ・</h3>
+<h3 align="center">・ Skills ・</h3>
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff"/></a>
@@ -10,9 +10,9 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=ffffff"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/SWR-000000?style=flat-square&logo=swr&logoColor=ffffff"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=000000"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=ffffff"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=ffffff"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=000000"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=jquery&logoColor=ffffff"/></a>
 </div>
 <div align="center">
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff"/></a>
@@ -30,7 +30,6 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000000"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=ffffff"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=ffffff"/></a>
 </div>
 
 <br />
