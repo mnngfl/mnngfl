@@ -1,7 +1,7 @@
 <div>
 <h3>🙋🏻‍♀️ Hello, I'm</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gothic+A1&size=18&duration=800&pause=200&color=7A95DA&multiline=true&repeat=false&random=false&width=435&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9D%B8+%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80%EA%B3%BC+%EC%B5%9C%EC%A0%81%EC%9D%98+%EC%84%B1%EB%8A%A5%EC%9D%84+%EB%8F%99%EC%8B%9C%EC%97%90+%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94;%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B0%95%ED%9A%A8%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Gothic+A1&size=18&duration=1000&pause=200&color=7AA3F4&multiline=true&repeat=false&random=false&width=435&height=80&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EC%8B%9C%EA%B0%81%EC%A0%81%EC%9D%B8+%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80%EA%B3%BC+%EC%B5%9C%EC%A0%81%EC%9D%98+%EC%84%B1%EB%8A%A5%EC%9D%84+%EB%8F%99%EC%8B%9C%EC%97%90+%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94;%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B0%95%ED%9A%A8%EB%AF%BC%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 </div>
 
@@ -63,13 +63,9 @@
 </details>
 
 <br />
-<br />
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=mnngfl&show_icons=true&theme=blueberry" />
-  </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnngfl&layout=compact&theme=blueberry&langs_count=8&card_width=320" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mnngfl&layout=compact&theme=tokyonight&langs_count=8&card_width=420" />
   </a>
 </div>
